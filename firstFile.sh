@@ -12,5 +12,7 @@ echo " multiplication"
 echo $(( x*y ))
 echo "Division"
 echo $(( x/y ))
+echo "Modulus"
+echo $(( x%y ))
 
 
