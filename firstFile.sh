@@ -6,4 +6,5 @@ echo "Enter Second Number"
 read y
 echo "adding"
 echo $(( x+y ))
-
+echo "Substracting"
+echo $(( x-y ))
