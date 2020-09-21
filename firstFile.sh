@@ -10,4 +10,7 @@ echo "Substracting"
 echo $(( x-y ))
 echo " multiplication"
 echo $(( x*y ))
+echo "Division"
+echo $(( x/y ))
+
 
