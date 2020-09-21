@@ -8,3 +8,6 @@ echo "adding"
 echo $(( x+y ))
 echo "Substracting"
 echo $(( x-y ))
+echo " multiplication"
+echo $(( x*y ))
+
