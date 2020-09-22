@@ -14,5 +14,14 @@ echo "Division"
 echo $(( x/y ))
 echo "Modulus"
 echo $(( x%y ))
-
+echo " Let's take new number"
+read z
+sum=$((x+y))
+echo "check if z is greater than $sum )"
+if [ $z -gt $sum ];
+then
+echo " $z is greater"
+else
+echo " $sum is greater"
+fi
 
