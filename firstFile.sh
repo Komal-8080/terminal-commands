@@ -24,4 +24,6 @@ echo " $z is greater"
 else
 echo " $sum is greater"
 fi
-
+echo " we are editing at server"
+echo " adding z at server"
+echo " edit at server"
