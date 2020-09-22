@@ -15,4 +15,4 @@ echo $(( x/y ))
 echo "Modulus"
 echo $(( x%y ))
 echo " we are editing at server"
-
+echo " adding z at server"
