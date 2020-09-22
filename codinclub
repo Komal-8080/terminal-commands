@@ -1,0 +1,500 @@
+   11  nano firstFile.sh 
+   12  git checkout 6d1041bcc
+   13  nano firstFile.sh 
+   14  git log
+   15  git checkout 6d1041bcc
+   16  nano firstFile.sh 
+   17  nano .git/logs/HEAD
+   18  git branch mulBranch 6d1041bcc
+   19  git checkout master
+   20  nano firstFile.sh 
+   21  git checkout mulbranch
+   22  nano firstFile.sh 
+   23  git log
+   24  git checkout master
+   25  git log
+   26  nano firstFile.sh 
+   27  git checkout 6d1041bcca
+   28  git branch additionbranch 813d634357
+   29  git log
+   30  git log --graph --online --decorate --all
+   31  git checkout master
+   32  git merge mulbrach
+   33  git merge mulBrach
+   34  git merge mulBranch
+   35  git log --graph --oneline --decorate --all
+   36  git log --all
+   37  history > codinclub
+   38  pwd
+   39  cd temp
+   40  nano *.array
+   41  ls *.array
+   42  ls array
+   43  ls
+   44  nano Randomarray.sh
+   45  bash ./Randomarray.sh
+   46  nano Randomarray.sh
+   47  bash ./Randomarray.sh
+   48  bash ./Randomarray.sh
+   49  nano Randomarray.sh
+   50  bash ./Randomarray.sh
+   51  nano Randomarray.sh
+   52  bash ./Randomarray.sh
+   53  nano Randomarray.sh
+   54  bash ./Randomarray.sh
+   55  nano Randomarray.sh
+   56  bash ./Randomarray.sh
+   57  nano Randomarray.sh
+   58  bash ./Randomarray.sh
+   59  nano Randomarray.sh
+   60  bash ./Randomarray.sh
+   61  nano Randomarray.sh
+   62  bash ./Randomarray.sh
+   63  nano Randomarray.sh
+   64  bash ./Randomarray.sh
+   65  nano Randomarray.sh
+   66  nano bubblesort.sh 
+   67  nano Randomarray.sh
+   68  bash ./Randomarray.sh
+   69  nano Randomarray.sh
+   70  bash ./Randomarray.sh
+   71  nano Randomarray.sh
+   72  bash ./Randomarray.sh
+   73  nano Randomarray.sh
+   74  bash ./Randomarray.sh
+   75  nano Randomarray.sh
+   76  ./Randomarray.sh
+   77  bash ./Randomarray.sh
+   78  nano Randomarray.sh
+   79  bash ./Randomarray.sh
+   80  nano Randomarray.sh
+   81  bash ./Randomarray.sh
+   82  nano Randomarray.sh
+   83  bash ./Randomarray.sh
+   84  nano Randomarray.sh
+   85  bash ./Randomarray.sh
+   86  nano Randomarray.sh
+   87  bash ./Randomarray.sh
+   88  nano Randomarray.sh
+   89  bash ./Randomarray.sh
+   90  nano Randomarray.sh
+   91  bash ./Randomarray.sh
+   92  nano Randomarray.sh
+   93  bash ./Randomarray.sh
+   94  nano Randomarray.sh
+   95  bash ./Randomarray.sh
+   96  nano Randomarray.sh
+   97  bash ./Randomarray.sh
+   98  nano Randomarray.sh
+   99  bash ./Randomarray.sh
+  100  nano Randomarray.sh
+  101  bash ./Randomarray.sh
+  102  nano Randomarray.sh
+  103  bash ./Randomarray.sh
+  104  nano Randomarray.sh
+  105  bash ./Randomarray.sh
+  106  nano Randomarray.sh
+  107  bash ./Randomarray.sh
+  108  nano Randomarray.sh
+  109  bash ./Randomarray.sh
+  110  nano Randomarray.sh
+  111  bash ./Randomarray.sh
+  112  nano Randomarray.sh
+  113  bash ./Randomarray.sh
+  114  nano Randomarray.sh
+  115  bash ./Randomarray.sh
+  116  nano Randomarray.sh
+  117  bash ./Randomarray.sh
+  118  nano Randomarray.sh
+  119  bash ./Randomarray.sh
+  120  nano Randomarray.sh
+  121  bash ./Randomarray.sh
+  122  nano Randomarray.sh
+  123  bash ./Randomarray.sh
+  124  nano Randomarray.sh
+  125  bash ./Randomarray.sh
+  126  nano Randomarray.sh
+  127  bash ./Randomarray.sh
+  128  nano Randomarray.sh
+  129  bash ./Randomarray.sh
+  130  nano Randomarray.sh
+  131  bash ./Randomarray.sh
+  132  nano Randomarray.sh
+  133  nano Randomarray.sh
+  134  bash ./Randomarray.sh
+  135  nano Randomarray.sh
+  136  bash ./Randomarray.sh
+  137  nano arraysimple.sh
+  138  pwd
+  139  cd temp
+  140  nano arraysimple.sh
+  141  ./arraysimple.sh
+  142  nano arraysimple.sh
+  143  ./arraysimple.sh
+  144  nano arraysimple.sh
+  145  ls
+  146  nano bubblesort.sh
+  147  nano arraysort.sh
+  148  ./arraysort.sh
+  149  nano arraysort.sh
+  150  ./arraysort.sh
+  151  nano arraysort.sh
+  152  ./arraysort.sh
+  153  nano arraysort.sh
+  154  ./arraysort.sh
+  155  nano arraysort.sh
+  156  ./arraysort.sh
+  157  nano arraysort.sh
+  158  ./arraysort.sh
+  159  nano arraysort.sh
+  160  ./arraysort.sh
+  161  nano arraysort.sh
+  162  ./arraysort.sh
+  163  nano arraysort.sh
+  164  ./arraysort.sh
+  165  nano arraysort.sh
+  166  ./arraysort.sh
+  167  nano arraysort.sh
+  168  ./arraysort.sh
+  169  nano arraysort.sh
+  170  ./arraysort.sh
+  171  nano arraysort.sh
+  172  nano bubblesort.sh
+  173  ./bubblesort.sh
+  174  nano bubblesort.sh
+  175  ./bubblesort.sh
+  176  nano arraysort.sh
+  177  nano bubblesort.sh
+  178  ./bubblesort.sh
+  179  nano arraysort.sh
+  180  arraysort.sh
+  181  nano arraysort.sh
+  182  arraysort.sh
+  183  ./arraysort.sh
+  184  nano arraysort.sh
+  185  ./arraysort.sh
+  186  nano arraysort.sh
+  187  nano bubblesort.sh
+  188  nano arraysort.sh
+  189  nano bubblesort.sh
+  190  nano Randomarray.sh 
+  191  ./Randomarray.sh 
+  192  nano Randomarray.sh 
+  193  ./Randomarray.sh 
+  194  nano Randomarray.sh 
+  195  cd temp
+  196  nano repeatednum.sh
+  197  ./repeatednum.sh
+  198  nano repeatednum.sh
+  199  ./repeatednum.sh
+  200  nano repeatednum.sh
+  201  ./repeatednum.sh
+  202  nano repeatednum.sh
+  203  ./repeatednum.sh
+  204  nano repeatednum.sh
+  205  ./repeatednum.sh
+  206  nano repeatednum.sh
+  207  ./repeatednum.sh
+  208  nano repeatednum.sh
+  209  ./repeatednum.sh
+  210  nano repeatednum.sh
+  211  ./repeatednum.sh
+  212  nano prime_array.sh
+  213  ./prime_array.sh
+  214  bash ./prime_array.sh
+  215  nano avoidnext_line.sh
+  216  ./avoidnext_line.sh
+  217  nano avoidnext_line.sh
+  218  ./avoidnext_line.sh
+  219  nano avoidnext_line.sh
+  220  ./avoidnext_line.sh
+  221  nano prime_array.sh
+  222  bash ./prime_array.sh
+  223  bash ./prime_array.sh
+  224  nano repeatednum.sh
+  225  ./repeatednum.sh
+  226  nano repeatednum.sh
+  227  ./repeatednum.sh
+  228  nano arraysort.sh 
+  229  ./arraysort.sh 
+  230  nano arraysort.sh 
+  231  ./arraysort.sh 
+  232  nano arraysort.sh 
+  233  ./arraysort.sh 
+  234  nano arraysort.sh 
+  235  ./arraysort.sh 
+  236  nano arraysort.sh 
+  237  ./arraysort.sh 
+  238  nano arraysort.sh 
+  239  nano arraysort.sh 
+  240  bash ./arraysort.sh 
+  241  nano arraysort.sh 
+  242  ./arraysort.sh 
+  243  nano arraysort.sh 
+  244  bash ./arraysort.sh 
+  245  nano arraysort.sh 
+  246  bash ./arraysort.sh 
+  247  /
+  248  nano arraysort.sh 
+  249  bash ./arraysort.sh 
+  250  nano arraysort.sh 
+  251  bash ./arraysort.sh 
+  252  nano arraysort.sh 
+  253  bash ./arraysort.sh 
+  254  nano arraysort.sh 
+  255  bash ./arraysort.sh 
+  256  nano arraysort.sh 
+  257  bash ./arraysort.sh 
+  258  nano arraysort.sh 
+  259  bash ./arraysort.sh 
+  260  nano arraysort.sh 
+  261  bash ./arraysort.sh 
+  262  nano arraysort.sh 
+  263  bash ./arraysort.sh 
+  264  nano arraysort.sh 
+  265  bash ./arraysort.sh 
+  266  nano arraysort.sh 
+  267  bash ./arraysort.sh 
+  268  nano Randomarray.sh 
+  269  bash ./Randomarray.sh 
+  270  history > codinclub
+  271  cd temp
+  272  nano arraysimple.sh
+  273  nano primefactor.sh
+  274  cd temp
+  275  nano bubblesort.sh 
+  276  nano arraysort.sh 
+  277  nano bubblesort.sh 
+  278  bash ./bubblesort.sh 
+  279  nano bubblesort.sh 
+  280  ./bubblesort.sh 
+  281  nano bubblesort.sh 
+  282  nano arraysort.sh 
+  283  bash ./arraysort.sh 
+  284  nano prime_array.sh
+  285  nano repeatednum.sh 
+  286  cd temp
+  287  nano Randomarray.sh 
+  288  ./Randomarray.sh 
+  289  nano Randomarray.sh 
+  290  ./Randomarray.sh 
+  291  nano Randomarray.sh 
+  292  ./Randomarray.sh 
+  293  nano Randomarray.sh 
+  294  ./Randomarray.sh 
+  295  nano Randomarray.sh 
+  296  ./Randomarray.sh 
+  297  bash ./Randomarray.sh 
+  298  nano Randomarray.sh 
+  299  bash ./Randomarray.sh 
+  300  nano Randomarray.sh 
+  301  bash ./Randomarray.sh 
+  302  nano Randomarray.sh 
+  303  bash ./Randomarray.sh 
+  304  nano Randomarray.sh 
+  305  bash ./Randomarray.sh 
+  306  nano Randomarray.sh 
+  307  bash ./Randomarray.sh 
+  308  nano Randomarray.sh 
+  309  bash ./Randomarray.sh 
+  310  nano Randomarray.sh 
+  311  bash ./Randomarray.sh 
+  312  nano Randomarray.sh 
+  313  nano Randomarray.sh 
+  314  nano Randomarray.sh 
+  315  bash ./Randomarray.sh 
+  316  nano Randomarray.sh 
+  317  bash ./Randomarray.sh 
+  318  nano Randomarray.sh 
+  319  bash ./Randomarray.sh 
+  320  nano Randomarray.sh 
+  321  bash ./Randomarray.sh 
+  322  nano Randomarray.sh 
+  323  bash ./Randomarray.sh 
+  324  nano Randomarray.sh 
+  325  bash ./Randomarray.sh 
+  326  nano Randomarray.sh 
+  327  bash ./Randomarray.sh 
+  328  nano Randomarray.sh 
+  329  bash ./Randomarray.sh 
+  330  nano Randomarray.sh 
+  331  bash ./Randomarray.sh 
+  332  nano Randomarray.sh 
+  333  bash ./Randomarray.sh 
+  334  nano Randomarray.sh 
+  335  bash ./Randomarray.sh 
+  336  nano Randomarray.sh 
+  337  bash ./Randomarray.sh 
+  338  nano Randomarray.sh 
+  339  bash ./Randomarray.sh 
+  340  nano Randomarray.sh 
+  341  bash ./Randomarray.sh 
+  342  nano Randomarray.sh 
+  343  nano Randomarray.sh 
+  344  bash ./Randomarray.sh 
+  345  nano Randomarray.sh 
+  346  bash ./Randomarray.sh 
+  347  nano Randomarray.sh 
+  348  bash ./Randomarray.sh 
+  349  bash ./Randomarray.sh 
+  350  nano Randomarray.sh 
+  351  bash ./Randomarray.sh 
+  352  nano Randomarray.sh 
+  353  nano Randomarray.sh 
+  354  bash ./Randomarray.sh 
+  355  ./Randomarray.sh 
+  356  nano Randomarray.sh 
+  357  bash ./Randomarray.sh 
+  358  ./Randomarray.sh 
+  359  nano Randomarray.sh 
+  360  ./Randomarray.sh 
+  361  nano Randomarray.sh 
+  362  ./Randomarray.sh 
+  363  nano Randomarray.sh 
+  364  ./Randomarray.sh 
+  365  nano Randomarray.sh 
+  366  ./Randomarray.sh 
+  367  bash ./Randomarray.sh 
+  368  ./Randomarray.sh 
+  369  nano Randomarray.sh 
+  370  bash ./Randomarray.sh 
+  371  nano Randomarray.sh 
+  372  bash ./Randomarray.sh 
+  373  nano Randomarray.sh 
+  374  bash ./Randomarray.sh 
+  375  nano Randomarray.sh 
+  376  bash ./Randomarray.sh 
+  377  nano Randomarray.sh 
+  378  bash ./Randomarray.sh 
+  379  nano Randomarray.sh 
+  380  bash ./Randomarray.sh 
+  381  nano Randomarray.sh 
+  382  bash ./Randomarray.sh 
+  383  nano Randomarray.sh 
+  384  bash ./Randomarray.sh 
+  385  nano Randomarray.sh 
+  386  bash ./Randomarray.sh 
+  387  bash ./Randomarray.sh 
+  388  nano Randomarray.sh 
+  389  bash ./Randomarray.sh 
+  390  ls
+  391  nano prime_array.sh 
+  392  bash ./prime_array.sh 
+  393  bash ./prime_array.sh 
+  394  nano prime_array.sh 
+  395  bash ./prime_array.sh 
+  396  nano prime_array.sh 
+  397  bash ./prime_array.sh 
+  398  nano prime_array.sh 
+  399  bash ./prime_array.sh 
+  400  bash ./prime_array.sh 
+  401  ls
+  402  ./repeatednum.sh 
+  403  89
+  404  pwd
+  405  rm -rf gitPractice/
+  406  mkdir gitPractice
+  407  ls -p
+  408  cd gitPractice/
+  409  git init
+  410  nano firstFile.sh
+  411  ./firstFile.sh
+  412  nano secondFile.sh
+  413  ./secondFile.sh
+  414  nano thirdFile
+  415  ./thirdFile
+  416  git add firstFile.sh
+  417  git status
+  418  git add secondFile.sh
+  419  git status
+  420  git commit -m "This is my First commit" firstFile.sh
+  421  git log
+  422  nano firstFile.sh
+  423  ./firstFile.sh
+  424  git status
+  425  git restore --staged
+  426  git restore firstFile.sh
+  427  ./firstFile.sh
+  428  git restore --staged firstFile.sh
+  429  git status
+  430  nano firstFile.sh
+  431  nano firstFile.sh
+  432  ./firstFile.sh
+  433  git status
+  434  git add firstFile.sh
+  435  git status
+  436  git commit firstFile.sh
+  437  git status
+  438  git log
+  439  nano firstFile.sh
+  440  git log
+  441  ./firstFile.sh
+  442  git commit -m "After addition second commit" firstFile.sh
+  443  git log
+  444  git checkout  7c28d658b5
+  445  git log
+  446  git log --all
+  447  git checkout master
+  448  git log --all
+  449  nano firstfile.sh
+  450  nano firstFile.sh
+  451  ./firstfile.sh
+  452  git add firstFile.sh
+  453  git status
+  454  fgit commit -m "Adding multiplication" firstFile.sh
+  455  git commit -m "Adding multiplication" firstFile.sh
+  456  git status
+  457  git log
+  458  git branch mulbrach  cfd47fe747b3
+  459  git log
+  460  git checkout mulbranch
+  461  git log
+  462  git checkout mulbranch
+  463  git checkout mulbranch cfd47fe74
+  464  git log
+  465  git checkout mulbrach
+  466  git log
+  467  nano firstfile.sh
+  468  ./firstfile.sh
+  469  git add firstFile.sh
+  470  gity status
+  471  git status
+  472  git log
+  473  git commit -m "adding divisiion" firstFile.sh
+  474  git log
+  475  git branch addbranch 1d6eaf7c
+  476  nano firstFile.sh
+  477  git log
+  478  nano firstFile.sh
+  479  ./firstFile.sh
+  480  git add 
+  481  git add firstFile.sh
+  482  git commit -m "Modulus" firstFile.sh
+  483  git log
+  484  git log --graph --oneline --decorate --all
+  485  git log --oneline --decorate --all
+  486  git log --name-status
+  487  it
+  488  gitgitgitgit
+  489  gitk
+  490  git merge master
+  491  githistory > codinclub
+  492  history > codinclub
+  493  cd gitpractice
+  494  git murge master
+  495  git merge master
+  496  git checkout master
+  497  git merge mulbranch
+  498  git merge mulbrach
+  499  git merge --abort
+  500  git log
+  501  git checkout mulbrach
+  502  cd gitPractice/
+  503  git log
+  504  git remote add origin https://github.com/Komal-8080/terminal-commands.git
+  505  git push -u origin master
+  506  git push -u origin master
+  507  git pull origin.sh
+  508  git pull -u origin master
+  509  nano firstFile.sh
+  510  history > codinclub
